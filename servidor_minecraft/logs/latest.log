@@ -126,3 +126,8 @@
 [17Jul2025 23:18:36.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago has made the advancement [Diamonds!]
 [17Jul2025 23:21:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Cover Me with Diamonds]
 [17Jul2025 23:21:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago has made the advancement [Cover Me with Diamonds]
+[17Jul2025 23:26:07.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Chest Slayer]
+[17Jul2025 23:26:13.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago has made the advancement [Amateur Archaeologist]
+[17Jul2025 23:33:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago has made the advancement [Chest Slayer]
+[17Jul2025 23:33:14.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Amateur Archaeologist]
+[17Jul2025 23:41:02.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-570, y=-50, z=254} BlockPos{x=-582, y=-47, z=251}
