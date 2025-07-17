@@ -131,3 +131,8 @@
 [17Jul2025 23:33:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago has made the advancement [Chest Slayer]
 [17Jul2025 23:33:14.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Amateur Archaeologist]
 [17Jul2025 23:41:02.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-570, y=-50, z=254} BlockPos{x=-582, y=-47, z=251}
+[17Jul2025 23:47:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 fell from a high place
+[17Jul2025 23:50:28.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[17Jul2025 23:50:42.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[17Jul2025 23:52:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Take Aim]
+[17Jul2025 23:52:21.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already

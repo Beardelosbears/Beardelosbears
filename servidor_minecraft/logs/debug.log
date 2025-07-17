@@ -2843,3 +2843,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jul2025 23:37:45.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 23:37:45.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jul2025 23:41:02.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-570, y=-50, z=254} BlockPos{x=-582, y=-47, z=251}
+[17Jul2025 23:42:45.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 23:42:45.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 23:47:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 fell from a high place
+[17Jul2025 23:47:45.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 23:47:45.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 23:50:28.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[17Jul2025 23:50:42.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[17Jul2025 23:52:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 has made the advancement [Take Aim]
+[17Jul2025 23:52:21.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[17Jul2025 23:52:45.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 23:52:45.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
