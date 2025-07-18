@@ -1,1 +1,18 @@
 [18Jul2025 00:01:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago was doomed to fall by MiGuElJuEgA62
+[18Jul2025 00:04:10.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joven_Thiago was kicked for floating too long!
+[18Jul2025 00:04:10.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joven_Thiago lost connection: Flying is not enabled on this server
+[18Jul2025 00:04:10.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago left the game
+[18Jul2025 00:04:10.799] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Joven_Thiago
+[18Jul2025 00:04:58.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b089505[id=<null>,name=Joven_Thiago,properties={},legacy=false] (/127.201.33.33:34901) lost connection: Disconnected
+[18Jul2025 00:05:38.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26db3c6c[id=<null>,name=Joven_Thiago,properties={},legacy=false] (/127.201.33.33:40927) lost connection: Disconnected
+[18Jul2025 00:05:58.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joven_Thiago[/127.201.33.33:37325] logged in with entity id 13461 at (-78.35473149495834, 68.7531999805212, -34.158366408740896)
+[18Jul2025 00:05:58.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago joined the game
+[18Jul2025 00:05:58.992] [Server thread/INFO] [Jade/]: Syncing config to Joven_Thiago (7267de8c-7533-3eec-ab64-4dfe1aa79f1b)
+[18Jul2025 00:06:00.166] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Joven_Thiago (18)
+[18Jul2025 00:06:00.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Joven_Thiago
+[18Jul2025 00:10:30.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiGuElJuEgA62 lost connection: Disconnected
+[18Jul2025 00:10:30.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiGuElJuEgA62 left the game
+[18Jul2025 00:10:30.289] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MiGuElJuEgA62
+[18Jul2025 00:10:34.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joven_Thiago lost connection: Disconnected
+[18Jul2025 00:10:34.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joven_Thiago left the game
+[18Jul2025 00:10:34.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Joven_Thiago
